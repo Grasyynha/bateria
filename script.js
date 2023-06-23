@@ -37,12 +37,13 @@ function playComposition(songArray) {
 
     for(let songItem of songArray) {
         setTimeout(() => {
+            playSound(`key${songItem}`);
 
         }, wait);
 
         wait += 250;
 
-        playSound(`key${songItem}`);
+      
 
     }
 
