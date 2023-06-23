@@ -1,3 +1,5 @@
 # bateria
 Desafio 7 projetos em  dias / Javascript
-<img src="/bateria/bateria.jpg" alt="My cool logo"/>
+
+![In a single picture]
+(https://github.com/Grasyynha/bateria/blob/main/bateria.jpg)
